@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle de Caixa", "Controle de Caixa.csproj", "{2F75D88C-5BFD-4985-848B-D4EBA64FDCDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F75D88C-5BFD-4985-848B-D4EBA64FDCDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F75D88C-5BFD-4985-848B-D4EBA64FDCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F75D88C-5BFD-4985-848B-D4EBA64FDCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F75D88C-5BFD-4985-848B-D4EBA64FDCDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97E6E85C-69D5-467A-88D3-91695F1DCD60}
+	EndGlobalSection
+EndGlobal
