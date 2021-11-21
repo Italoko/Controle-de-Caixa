@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Controle_de_Caixa.Controllers
 {
-    public class CaixaController : Controller
+    public class FluxoCaixaController : Controller
     {
         [HttpPost]
         public IActionResult Gravar([FromBody] System.Text.Json.JsonElement dados)
@@ -18,8 +18,8 @@ namespace Controle_de_Caixa.Controllers
             bool sucesso = false;
             string msg = "";
            
-            CaixaControl cc = CaixaControl.getInstance();
-            (sucesso, msg) = cc.Gravar(dados);
+            FluxoCaixaControl fc = FluxoCaixaControl.getInstance();
+            (sucesso, msg) = fc.Gravar(dados);
 
             var retorno = new
             {
@@ -28,8 +28,6 @@ namespace Controle_de_Caixa.Controllers
             };
             return Json(retorno);
         }
-
-
 
         public IActionResult Index()
         {

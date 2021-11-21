@@ -46,7 +46,7 @@ namespace Controle_de_Caixa
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Caixa}/{action=Index}/{id?}");
+                    pattern: "{controller=FluxoCaixa}/{action=Index}/{id?}");
             });
         }
     }

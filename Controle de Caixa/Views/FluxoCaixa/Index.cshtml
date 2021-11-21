@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Controle Fluxo de Caixa";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="box">
+    <form>
+        <div class="col-md-4 mb-3">
+            <label for="formValor">Valor R$:</label>
+            <input type="number" min="0" value="0" class="form-control" id="valor">
+        </div>
+        <div class="col-md-4 mb-3">
+            <label for="formTipo">Tipo:</label>
+            <select class="form-control" id="tipo">
+                <option value="e">Entrada</option>
+                <option value="r">Retirada</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="formValor">Motivo:</label>
+            <textarea type="text" class="form-control" id="motivo"></textarea>
+        </div>
+        <button style="margin-top:10px; float:right" class="btn btn-lg btn-success" type="submit" onclick="fluxoCaixa.enviar()"> Gravar </button>
+    </form>
+</div>
+
+@section javascript {
+    <script src="~/js/Index.js"></script>
+} 

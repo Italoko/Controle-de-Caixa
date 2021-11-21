@@ -35,7 +35,9 @@ namespace Controle_de_Caixa.DAL
                 _bd.AdicionarParametro("@motivo", acertoCaixa.Motivo);
 
                 _bd.AbrirConexao();
-                linhas = _bd.ExecutarNonQuery(sql);
+                linhas  = _bd.ExecutarNonQuery(sql);
+                if (linhas > 0)
+                    acertoCaixa.Id = _bd.UltimoId;
                 _bd.FecharConexao();
             }
             catch (Exception ex)

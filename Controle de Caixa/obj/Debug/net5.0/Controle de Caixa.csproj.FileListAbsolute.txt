@@ -341,7 +341,6 @@ I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\scopedcss\bundle\Control
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Controle de Caixa.TagHelpers.input.cache
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Controle de Caixa.TagHelpers.output.cache
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Controle de Caixa.RazorCoreGenerate.cache
-I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Razor\Views\Caixa\Index.cshtml.g.cs
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Controle de Caixa.RazorTargetAssemblyInfo.cache
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Controle de Caixa.RazorTargetAssemblyInfo.cs
@@ -351,3 +350,4 @@ I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Controle de Caixa.dll
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\ref\Controle de Caixa.dll
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Controle de Caixa.pdb
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Controle de Caixa.genruntimeconfig.cache
+I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Razor\Views\FluxoCaixa\Index.cshtml.g.cs
