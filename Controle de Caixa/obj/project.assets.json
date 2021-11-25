@@ -194,7 +194,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "MySqlConnector/1.3.14": {
+      "MySqlConnector/2.0.0": {
         "type": "package",
         "compile": {
           "lib/net5.0/MySqlConnector.dll": {}
@@ -265,6 +265,19 @@
         },
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
+        }
+      },
+      "FluxoCaixaApplication/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "MySqlConnector": "2.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FluxoCaixaApplication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FluxoCaixaApplication.dll": {}
         }
       }
     }
@@ -563,10 +576,10 @@
         "version.txt"
       ]
     },
-    "MySqlConnector/1.3.14": {
-      "sha512": "JW7YYHtjW5dKk3SQGkgKzvj7+n+RLZXYCZ+s2izjFD1ehmr5JlGZFZG98DCI4T9wB154qKja5GA9IQMfX+GH+Q==",
+    "MySqlConnector/2.0.0": {
+      "sha512": "EY0KXqQas+QvdZQU0NPkqBSfJitWAl8IUCg0v/Qn0P7f/KApJTFJFm8czYWoDPyewUjPHrAnE/cSYzzSFGc8Ng==",
       "type": "package",
-      "path": "mysqlconnector/1.3.14",
+      "path": "mysqlconnector/2.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -579,18 +592,16 @@
         "lib/net471/MySqlConnector.xml",
         "lib/net5.0/MySqlConnector.dll",
         "lib/net5.0/MySqlConnector.xml",
-        "lib/netcoreapp2.1/MySqlConnector.dll",
-        "lib/netcoreapp2.1/MySqlConnector.xml",
+        "lib/net6.0/MySqlConnector.dll",
+        "lib/net6.0/MySqlConnector.xml",
         "lib/netcoreapp3.1/MySqlConnector.dll",
         "lib/netcoreapp3.1/MySqlConnector.xml",
-        "lib/netstandard1.3/MySqlConnector.dll",
-        "lib/netstandard1.3/MySqlConnector.xml",
         "lib/netstandard2.0/MySqlConnector.dll",
         "lib/netstandard2.0/MySqlConnector.xml",
         "lib/netstandard2.1/MySqlConnector.dll",
         "lib/netstandard2.1/MySqlConnector.xml",
         "logo.png",
-        "mysqlconnector.1.3.14.nupkg.sha512",
+        "mysqlconnector.2.0.0.nupkg.sha512",
         "mysqlconnector.nuspec"
       ]
     },
@@ -768,12 +779,18 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "FluxoCaixaApplication/1.0.0": {
+      "type": "project",
+      "path": "../FluxoCaixaApplication/FluxoCaixaApplication.csproj",
+      "msbuildProject": "../FluxoCaixaApplication/FluxoCaixaApplication.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "FluxoCaixaApplication >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 5.0.4",
-      "MySqlConnector >= 1.3.14"
+      "MySqlConnector >= 2.0.0"
     ]
   },
   "packageFolders": {
@@ -802,7 +819,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "I:\\Controle-de-Caixa\\FluxoCaixaApplication\\FluxoCaixaApplication.csproj": {
+              "projectPath": "I:\\Controle-de-Caixa\\FluxoCaixaApplication\\FluxoCaixaApplication.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -821,7 +842,7 @@
           },
           "MySqlConnector": {
             "target": "Package",
-            "version": "[1.3.14, )"
+            "version": "[2.0.0, )"
           }
         },
         "imports": [

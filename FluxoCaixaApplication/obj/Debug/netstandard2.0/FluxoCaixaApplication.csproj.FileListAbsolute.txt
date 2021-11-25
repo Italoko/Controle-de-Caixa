@@ -1,0 +1,9 @@
+I:\Controle-de-Caixa\FluxoCaixaApplication\bin\Debug\netstandard2.0\FluxoCaixaApplication.deps.json
+I:\Controle-de-Caixa\FluxoCaixaApplication\bin\Debug\netstandard2.0\FluxoCaixaApplication.dll
+I:\Controle-de-Caixa\FluxoCaixaApplication\bin\Debug\netstandard2.0\FluxoCaixaApplication.pdb
+I:\Controle-de-Caixa\FluxoCaixaApplication\obj\Debug\netstandard2.0\FluxoCaixaApplication.csprojAssemblyReference.cache
+I:\Controle-de-Caixa\FluxoCaixaApplication\obj\Debug\netstandard2.0\FluxoCaixaApplication.AssemblyInfoInputs.cache
+I:\Controle-de-Caixa\FluxoCaixaApplication\obj\Debug\netstandard2.0\FluxoCaixaApplication.AssemblyInfo.cs
+I:\Controle-de-Caixa\FluxoCaixaApplication\obj\Debug\netstandard2.0\FluxoCaixaApplication.csproj.CoreCompileInputs.cache
+I:\Controle-de-Caixa\FluxoCaixaApplication\obj\Debug\netstandard2.0\FluxoCaixaApplication.dll
+I:\Controle-de-Caixa\FluxoCaixaApplication\obj\Debug\netstandard2.0\FluxoCaixaApplication.pdb

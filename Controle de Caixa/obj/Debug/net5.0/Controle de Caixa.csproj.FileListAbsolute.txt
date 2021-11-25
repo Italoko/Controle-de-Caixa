@@ -326,6 +326,8 @@ I:\Controle-de-Caixa\Controle de Caixa\bin\Debug\net5.0\ru\Microsoft.CodeAnalysi
 I:\Controle-de-Caixa\Controle de Caixa\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 I:\Controle-de-Caixa\Controle de Caixa\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 I:\Controle-de-Caixa\Controle de Caixa\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Controle-de-Caixa\Controle de Caixa\bin\Debug\net5.0\FluxoCaixaApplication.dll
+I:\Controle-de-Caixa\Controle de Caixa\bin\Debug\net5.0\FluxoCaixaApplication.pdb
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Controle de Caixa.csprojAssemblyReference.cache
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Controle de Caixa.GeneratedMSBuildEditorConfig.editorconfig
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Controle de Caixa.AssemblyInfoInputs.cache
@@ -341,6 +343,7 @@ I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\scopedcss\bundle\Control
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Controle de Caixa.TagHelpers.input.cache
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Controle de Caixa.TagHelpers.output.cache
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Controle de Caixa.RazorCoreGenerate.cache
+I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Razor\Views\FluxoCaixa\Index.cshtml.g.cs
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Controle de Caixa.RazorTargetAssemblyInfo.cache
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Controle de Caixa.RazorTargetAssemblyInfo.cs
@@ -350,4 +353,3 @@ I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Controle de Caixa.dll
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\ref\Controle de Caixa.dll
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Controle de Caixa.pdb
 I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Controle de Caixa.genruntimeconfig.cache
-I:\Controle-de-Caixa\Controle de Caixa\obj\Debug\net5.0\Razor\Views\FluxoCaixa\Index.cshtml.g.cs

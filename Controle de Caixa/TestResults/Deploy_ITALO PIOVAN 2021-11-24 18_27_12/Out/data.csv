@@ -1,0 +1,3 @@
+﻿cx_saldo_inicial,cx_saldo_final,cx_status,trans_tipo,trans_valor,trans_motivo
+100,100,1,e,25,  
+100,100,1,r,20,Comprei paçoca
