@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "uaZ7Rct1MDm/HynkWuWud4CazzG0Gf+63yTgfkQkD2Ric60yKkiwfksfy6f4+oF6++bmcjlOwBNhiqeVB4O7fg==",
-  "success": true,
+  "dgSpecHash": "X1NvFPmSbQ9reSulQYcf7U6HNNt82AjYNqFTvbQJ1eEBD4JwnHEp/KD+0WfXSn1OmUbVMBEx//qCbe/b+iJ26Q==",
+  "success": false,
   "projectFilePath": "I:\\Controle-de-Caixa\\Controle de Caixa\\Controle de Caixa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ITALO PIOVAN\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.4\\microsoft.aspnetcore.mvc.razor.extensions.5.0.4.nupkg.sha512",
@@ -21,5 +21,15 @@
     "C:\\Users\\ITALO PIOVAN\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
     "C:\\Users\\ITALO PIOVAN\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Detected package downgrade: MySqlConnector from 2.1.0 to 2.0.0. Reference the package directly from the project to select a different version. \r\n Controle de Caixa -> FluxoCaixaApplication -> MySqlConnector (>= 2.1.0) \r\n Controle de Caixa -> MySqlConnector (>= 2.0.0)",
+      "libraryId": "MySqlConnector",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

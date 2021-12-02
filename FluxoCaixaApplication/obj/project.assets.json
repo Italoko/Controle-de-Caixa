@@ -20,7 +20,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "MySqlConnector/2.0.0": {
+      "MySqlConnector/2.1.0": {
         "type": "package",
         "dependencies": {
           "System.Buffers": "4.5.1",
@@ -183,10 +183,10 @@
         "runtime.json"
       ]
     },
-    "MySqlConnector/2.0.0": {
-      "sha512": "EY0KXqQas+QvdZQU0NPkqBSfJitWAl8IUCg0v/Qn0P7f/KApJTFJFm8czYWoDPyewUjPHrAnE/cSYzzSFGc8Ng==",
+    "MySqlConnector/2.1.0": {
+      "sha512": "5iNkOyyFeH3g3ZEh24OgIinoDlDRC6590nz6jxrcczyqLjU8Hxq2remw350CtdecNZOBH/W8zdAXXISAUSOuhA==",
       "type": "package",
-      "path": "mysqlconnector/2.0.0",
+      "path": "mysqlconnector/2.1.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -208,7 +208,7 @@
         "lib/netstandard2.1/MySqlConnector.dll",
         "lib/netstandard2.1/MySqlConnector.xml",
         "logo.png",
-        "mysqlconnector.2.0.0.nupkg.sha512",
+        "mysqlconnector.2.1.0.nupkg.sha512",
         "mysqlconnector.nuspec"
       ]
     },
@@ -746,7 +746,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "MySqlConnector >= 2.0.0",
+      "MySqlConnector >= 2.1.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -791,7 +791,7 @@
         "dependencies": {
           "MySqlConnector": {
             "target": "Package",
-            "version": "[2.0.0, )"
+            "version": "[2.1.0, )"
           },
           "NETStandard.Library": {
             "suppressParent": "All",

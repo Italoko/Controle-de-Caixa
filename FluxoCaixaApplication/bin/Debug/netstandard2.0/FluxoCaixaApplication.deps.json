@@ -9,7 +9,7 @@
     ".NETStandard,Version=v2.0/": {
       "FluxoCaixaApplication/1.0.0": {
         "dependencies": {
-          "MySqlConnector": "2.0.0",
+          "MySqlConnector": "2.1.0",
           "NETStandard.Library": "2.0.3"
         },
         "runtime": {
@@ -18,7 +18,7 @@
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
-      "MySqlConnector/2.0.0": {
+      "MySqlConnector/2.1.0": {
         "dependencies": {
           "System.Buffers": "4.5.1",
           "System.Diagnostics.DiagnosticSource": "5.0.1",
@@ -28,7 +28,7 @@
         "runtime": {
           "lib/netstandard2.0/MySqlConnector.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.0.0"
+            "fileVersion": "2.1.0.0"
           }
         }
       },
@@ -141,12 +141,12 @@
       "path": "microsoft.netcore.targets/1.1.0",
       "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
     },
-    "MySqlConnector/2.0.0": {
+    "MySqlConnector/2.1.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-EY0KXqQas+QvdZQU0NPkqBSfJitWAl8IUCg0v/Qn0P7f/KApJTFJFm8czYWoDPyewUjPHrAnE/cSYzzSFGc8Ng==",
-      "path": "mysqlconnector/2.0.0",
-      "hashPath": "mysqlconnector.2.0.0.nupkg.sha512"
+      "sha512": "sha512-5iNkOyyFeH3g3ZEh24OgIinoDlDRC6590nz6jxrcczyqLjU8Hxq2remw350CtdecNZOBH/W8zdAXXISAUSOuhA==",
+      "path": "mysqlconnector/2.1.0",
+      "hashPath": "mysqlconnector.2.1.0.nupkg.sha512"
     },
     "NETStandard.Library/2.0.3": {
       "type": "package",

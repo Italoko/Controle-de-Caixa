@@ -17,7 +17,8 @@ namespace FluxoCaixaApplication.DAL
         {
             _strCon = "Data Source = den1.mysql4.gear.host; Database = aulalp4; User Id = aulalp4; Password = Al59dz6?6v7_; ; SSL Mode = None";
             _conexao = new MySqlConnection(_strCon);
-            _comando = _conexao.CreateCommand(); 
+
+             _comando = _conexao.CreateCommand(); 
         }
 
         public void AbrirConexao()

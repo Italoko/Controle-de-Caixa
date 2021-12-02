@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "06n0PkZ2fZgycnoMxLV9VrJJhnoYlHrv5Cru77tMecTh6zO5/pogASx4iKcDsRhqys1QF+mLBAjuWpvDn/qq+A==",
+  "dgSpecHash": "3aY0wPObeqbVL5tATuI/AIxxbDqzDKQFRdGEJZEucjoAoag85AQe1ZE34ThNyg2oF9J+piB3tKko74QDKdNjYw==",
   "success": true,
   "projectFilePath": "I:\\Controle-de-Caixa\\FluxoCaixaApplication\\FluxoCaixaApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ITALO PIOVAN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\ITALO PIOVAN\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\ITALO PIOVAN\\.nuget\\packages\\mysqlconnector\\2.0.0\\mysqlconnector.2.0.0.nupkg.sha512",
+    "C:\\Users\\ITALO PIOVAN\\.nuget\\packages\\mysqlconnector\\2.1.0\\mysqlconnector.2.1.0.nupkg.sha512",
     "C:\\Users\\ITALO PIOVAN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\ITALO PIOVAN\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\ITALO PIOVAN\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

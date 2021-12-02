@@ -20,11 +20,6 @@ namespace TestBox
         {
             FluxoCaixaControl FluxoCxControl = FluxoCaixaControl.getInstance();
 
-            /*Console.WriteLine(TestContext.DataRow[0]);
-            decimal x = Convert.ToDecimal(TestContext.DataRow[0]);
-            decimal y = Convert.ToDecimal(TestContext.DataRow[1]);*/
-
-
             Caixa caixa = new Caixa()
             {
                 SaldoInicial = Convert.ToDecimal(TestContext.DataRow[0]),
