@@ -1,8 +1,8 @@
-﻿cx_saldo_inicial,cx_saldo_final,cx_status,trans_tipo,trans_valor,trans_motivo
-100,100,1,e,50,
-100,100,1,e,50,Premio 
-100,100,1,r,50,Comprei paçoca
-100,100,0,e,50,Entrada caixa fechado
-100,100,0,r,50,Entrada caixa fechado
-100,100,1,r,50,
-100,100,1,r,200,Não tem grana suficiente
+﻿cx_saldo_inicial,cx_saldo_final,cx_status,trans_tipo,trans_valor,trans_motivo,saida_esperada
+100,100,1,e,50, ,true
+100,100,1,e,50,Premio,true 
+100,100,1,r,50,Comprei paçoca,true
+100,100,0,e,50, ,false
+100,100,0,r,50, ,false
+100,100,1,r,50, , false
+100,100,1,r,200, ,false

@@ -35,7 +35,7 @@ namespace TestBox
             string msg = "";
             (sucess,msg) = FluxoCxControl.Gravar(caixa, tipo, valor, motivo);
 
-            Assert.IsTrue(sucess);
+            Assert.IsTrue(sucess == Convert.ToBoolean(TestContext.DataRow[6].ToString()));
         }
     }
 }
